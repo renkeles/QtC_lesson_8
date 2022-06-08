@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image/png">
+        <file>image/icon/icons8-new-copy-64.png</file>
+        <file>image/icon/icons8-opened-folder-64.png</file>
+        <file>image/icon/icons8-print-64.png</file>
+        <file>image/icon/icons8-save-64.png</file>
+        <file>image/logo/2944881_bug_seo_user_virus_icon.png</file>
+        <file>image/icon/icons8-маркер-64.png</file>
+        <file>image/icon/icons8-выровнять-по-левому-краю-64.png</file>
+        <file>image/icon/icons8-выровнять-по-правому-краю-64.png</file>
+        <file>image/icon/icons8-выровнять-по-центру-64.png</file>
+        <file>image/icon/icons8-выбор-шрифта-64.png</file>
+        <file>image/icon/icons8-поставить-ссылку-на-дочернюю-компанию-64.png</file>
+        <file>image/icon/icons8-поставить-ссылку-на-родительскую-компанию-64.png</file>
+        <file>image/icon/clock_icon_128908.png</file>
+        <file>image/icon/eventonday10_79977.png</file>
+    </qresource>
+    <qresource prefix="/style/qss">
+        <file>Integrid.qss</file>
+        <file>Combinear.qss</file>
+    </qresource>
+    <qresource prefix="/language/qm">
+        <file>QtLanguage_en.qm</file>
+        <file>QtLanguage_ru.qm</file>
+    </qresource>
+</RCC>
